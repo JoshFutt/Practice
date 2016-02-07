@@ -1,0 +1,47 @@
+<link rel="stylesheet" href="style.css"> 
+
+body {
+	background-color: lightgrey;
+}
+
+h1{ font-size: 3
+	font-family: Arial;
+	color- black
+	text-alight: center;
+     }
+
+h2 { font-size 2
+     Font-Family: "Verdana";
+     text-align: center;
+ }
+p { font-size 2
+    Font-Family: "Verdana";
+    Text-align: left;}
+
+.image { 
+float: center;
+width: 120%
+margin-right: 150px;
+margin-left: 150px
+
+}
+
+.image caption {
+float: center;
+margin-right:  150px:
+margin-left: 150px;
+}
+
+p { font-size: 3
+    Font-family Courier
+}
+
+pull quote {
+	font-size: 3
+	Font-Family Courier;
+}
+
+p { font-size: 2
+    Font-family Arial;
+}
+  
